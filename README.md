@@ -1,6 +1,6 @@
 # CLASE INTRODUCTORIA JAVASCRIPT
 
-Material base para una clase introductoria de JavaScript orientada a practica.
+Clase Introductoria práctica al lenguaje de programación Javascript para alumnos de la asignatura Metodología de Desarollo para la carrera de Ingeniería en Ejecución y Computación Informatica.
 
 ## Estructura
 
@@ -38,8 +38,6 @@ Desde la raiz del proyecto, ejecuta cualquier archivo con Node:
 node clase/00-hola-mundo.js
 node clase/01-tipos-de-datos.js
 ```
-
-Tip: puedes abrir dos terminales, una para explicar y otra para ejecutar ejemplos en vivo.
 
 ## Objetivo de la clase
 
